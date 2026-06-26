@@ -1,0 +1,36 @@
+REGENERA-03-CHANNELS-10-10 — VERIFICAÇÃO FINAL
+zip_sha256=1545c87328e801e03c4139d665331c8cf30148981171bf2a417f55f9068da260
+verified_at_utc=2026-06-26T17:57:37Z
+workspace=/tmp/regenera-channels-verify.aqBq5M/REGENERA-03-CHANNELS-10-10/03-channels
+
+$ make all
+{"commands": 10, "passed": 10, "failed": 0}
+test_balances_are_not_authoritative (test_channels.BoundaryTests.test_balances_are_not_authoritative) ... ok
+test_external_signature_is_pending (test_channels.BoundaryTests.test_external_signature_is_pending) ... ok
+test_no_direct_database_access_claim (test_channels.BoundaryTests.test_no_direct_database_access_claim) ... ok
+test_unknown_retry_is_forbidden (test_channels.BoundaryTests.test_unknown_retry_is_forbidden) ... ok
+test_build_and_verify_after_tests (test_channels.ReleaseTests.test_build_and_verify_after_tests) ... ok
+test_build_requires_tests (test_channels.ReleaseTests.test_build_requires_tests) ... ok
+test_payload_manifest_has_no_forbidden_artifact (test_channels.ReleaseTests.test_payload_manifest_has_no_forbidden_artifact) ... ok
+test_control_depth_and_unique_ids (test_channels.StructureTests.test_control_depth_and_unique_ids) ... ok
+test_controls_do_not_overclaim (test_channels.StructureTests.test_controls_do_not_overclaim) ... ok
+test_five_active_channels (test_channels.StructureTests.test_five_active_channels) ... ok
+test_legacy_is_forbidden (test_channels.StructureTests.test_legacy_is_forbidden) ... ok
+test_no_nested_zip (test_channels.StructureTests.test_no_nested_zip) ... ok
+test_no_system_artifacts (test_channels.StructureTests.test_no_system_artifacts) ... ok
+test_security_passes (test_channels.StructureTests.test_security_passes) ... ok
+test_validator_passes (test_channels.StructureTests.test_validator_passes) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.073s
+
+OK
+{"status": "PASS", "payload_files": 62, "internal_archive": false}
+missing:dist/PLATFORM-TESTS.json
+{"status": "PASS", "payload_files": 62, "internal_archive": false}
+
+$ zip integrity
+No errors detected in compressed data of /mnt/data/REGENERA-03-CHANNELS-10-10.zip.
+
+$ forbidden artifacts
+count=0

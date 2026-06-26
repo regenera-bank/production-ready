@@ -1,0 +1,29 @@
+object 97cee93d7186fd86c9b4479dbeb9131d0ef99677
+type commit
+tag source-baseline-signed-2026-06-26
+tagger Regenera Bank <finance@regenerabank.world> 1782491732 -0300
+
+Regenera Bank signed institutional source baseline.
+
+Repository: https://github.com/regenera-bank/production-ready.git
+Baseline commit: 97cee93d7186fd86c9b4479dbeb9131d0ef99677
+Source tree: 92b6747199742aa95e8c2815d999ee22a5cb5156
+Institutional fingerprint: 730834AB4126C341A70F6B969826A3AC0BF6A90C
+Timestamp UTC: 2026-06-26T16:35:18Z
+-----BEGIN PGP SIGNATURE-----
+
+iQJPBAABCAA5FiEEcwg0q0Emw0GnD2uWmCajrAv2qQwFAmo+qlQbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMCwzAAoJEJgmo6wL9qkMz64QAJJ0XVr3bJF8Ak91OUdx
+OV9G3rLtJgvw2weV9YQebYl53OlU7iX09i18LfHh6y/oKXizmQNGwkdYVKCMIJFT
+OhdmE+hx7q0TnZ/EdT/gtuos6SikqLE3sur+e+Gbyw9ukpP0CbHOkl72j9S7Qgm0
+K2nZI8eUfHMT0gf7aPWrroimSrWgQr+T9kLORTpcXZwwwrJrh9QdU1PAEm34lg4v
++ImOeKrq6csB7XbFsu1qhMkSiq5taTRV5AhCX2l531ZY9CJqYnkA8Y8dutnrDj9Z
+7xTa7u1MtaYgaY5HZm8CW3L5mNqfwkmKZGhw2OgAVXZhGMGvXZNDjWl9de1cxryz
+AQPEITIkQE6D+pJH2NjFO7QuV2zwbSHtnCP5BgAr5zkiCRynicVikWBGxY4vKeHI
+I15QOO+m7Zhjd1oqBpxVT4bpAelf6CulxVAdJD9o6pBIJyw9Vx78yFU3mGfX62ag
+tVuR/VRuuTSAHNdvc/WVys5YfB6LvhCy0VqdwK9SrvtGClF8rCsdywS46eKAUzw9
+KqapdPgtFs6APcxAU+sJNU/Zmmh0pvzCh49EHO5WrNDLsg6fDUB8YuULThzBliQ6
+h8RtJ3x+KjzGKhRMyCFiBQu7rOQJQj4OR+CMb+fFGp5+OhwmlYiQyuph/uxm33Tq
+C/DsC3Q2BAPAuq1R1Ab2P96l
+=UPu4
+-----END PGP SIGNATURE-----

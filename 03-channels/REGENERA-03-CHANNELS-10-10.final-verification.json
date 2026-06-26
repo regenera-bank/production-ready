@@ -1,0 +1,24 @@
+{
+  "artifact": "REGENERA-03-CHANNELS-10-10.zip",
+  "sha256": "1545c87328e801e03c4139d665331c8cf30148981171bf2a417f55f9068da260",
+  "zip_entries": 106,
+  "source_payload_files": 62,
+  "platform_commands": 10,
+  "platform_commands_passed": 10,
+  "governance_tests": 15,
+  "governance_tests_passed": 15,
+  "total_gate_checks_passed": 25,
+  "validation": "PASS",
+  "security_scan": "PASS",
+  "build": "PASS",
+  "release_verification": "PASS",
+  "clean_extraction_make_all_exit_code": 0,
+  "system_artifacts": [],
+  "nested_zip_entries": [],
+  "external_signature": "PENDING_REAL_PRIVATE_KEY",
+  "limitations": [
+    "Integrações com Keystore, Keychain, App Attest, Play Integrity, WAF, identidade corporativa e lojas dependem de plataforma externa.",
+    "A assinatura criptográfica não foi fabricada; deve ser produzida com a chave privada real do titular.",
+    "Os núcleos de canal comprovam fronteiras e controles de referência; não constituem homologação de redes financeiras."
+  ]
+}
