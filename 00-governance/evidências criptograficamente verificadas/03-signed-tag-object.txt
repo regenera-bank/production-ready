@@ -1,29 +1,32 @@
-object 97cee93d7186fd86c9b4479dbeb9131d0ef99677
+object ff20bce434bbadbd236efb43c2e9773643e514a0
 type commit
-tag source-baseline-signed-2026-06-26
-tagger Regenera Bank <finance@regenerabank.world> 1782491732 -0300
+tag source-baseline-signed-2026-06-27-002704
+tagger Regenera Bank <finance@regenerabank.world> 1782520033 -0300
 
 Regenera Bank signed institutional source baseline.
 
-Repository: https://github.com/regenera-bank/production-ready.git
-Baseline commit: 97cee93d7186fd86c9b4479dbeb9131d0ef99677
-Source tree: 92b6747199742aa95e8c2815d999ee22a5cb5156
+Repository: https://github.com/regenera-bank/-production-ready.git
+Local repository: /Volumes/Regenera Bank 1/production-ready
+Baseline commit: ff20bce434bbadbd236efb43c2e9773643e514a0
+Source parent commit: 51bd8f7cffc910cba3fa21159b450a1c13c07075
+Source tree: ce3657ea4796f3c4372e5cbb182ee7a50077743a
+Institutional identity: Regenera Bank <finance@regenerabank.world>
 Institutional fingerprint: 730834AB4126C341A70F6B969826A3AC0BF6A90C
-Timestamp UTC: 2026-06-26T16:35:18Z
+Timestamp UTC: 2026-06-27T00:27:04Z
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAABCAA5FiEEcwg0q0Emw0GnD2uWmCajrAv2qQwFAmo+qlQbFIAAAAAABAAO
-bWFudTIsMi41KzEuMTIsMCwzAAoJEJgmo6wL9qkMz64QAJJ0XVr3bJF8Ak91OUdx
-OV9G3rLtJgvw2weV9YQebYl53OlU7iX09i18LfHh6y/oKXizmQNGwkdYVKCMIJFT
-OhdmE+hx7q0TnZ/EdT/gtuos6SikqLE3sur+e+Gbyw9ukpP0CbHOkl72j9S7Qgm0
-K2nZI8eUfHMT0gf7aPWrroimSrWgQr+T9kLORTpcXZwwwrJrh9QdU1PAEm34lg4v
-+ImOeKrq6csB7XbFsu1qhMkSiq5taTRV5AhCX2l531ZY9CJqYnkA8Y8dutnrDj9Z
-7xTa7u1MtaYgaY5HZm8CW3L5mNqfwkmKZGhw2OgAVXZhGMGvXZNDjWl9de1cxryz
-AQPEITIkQE6D+pJH2NjFO7QuV2zwbSHtnCP5BgAr5zkiCRynicVikWBGxY4vKeHI
-I15QOO+m7Zhjd1oqBpxVT4bpAelf6CulxVAdJD9o6pBIJyw9Vx78yFU3mGfX62ag
-tVuR/VRuuTSAHNdvc/WVys5YfB6LvhCy0VqdwK9SrvtGClF8rCsdywS46eKAUzw9
-KqapdPgtFs6APcxAU+sJNU/Zmmh0pvzCh49EHO5WrNDLsg6fDUB8YuULThzBliQ6
-h8RtJ3x+KjzGKhRMyCFiBQu7rOQJQj4OR+CMb+fFGp5+OhwmlYiQyuph/uxm33Tq
-C/DsC3Q2BAPAuq1R1Ab2P96l
-=UPu4
+iQJPBAABCAA5FiEEcwg0q0Emw0GnD2uWmCajrAv2qQwFAmo/GOEbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMCwzAAoJEJgmo6wL9qkMHMsQAImJrUazpBi+qLQzJ98Y
+B0BVaaE4xMfmPQskDmLqCq2YXJzYslnugjJCsAUITLRht48Y08a0iCon3EVBXZla
++bOTK3+fiyBeW3Lt3r9ScvMSmtJt7ZL1n3daUk0HWgN9l11C6mnkh3ROzruBi3f7
+hrbrF2XrlI0+6/NP13Q4xrDwUplzIhNjN28ewRdiQ3gJYK1JQabdvI5O0x4gd7y4
+VkJZkokyPBK6PQiNIdtdBJW+WkqQfFEXfue5ALrxmhmm0oumdG+Y4Sz6pb8twZrn
+G27AJJ0u3Zu6uLLzENjcCbWso0SC1cxYvK59tyQBrGUfEZgFIVajKtxp1O/wnxxP
+B5GHBWVrnSr0OjuJcHoGgVI0IX/o8CGMAqVMfuo2v0hKnLcm2+e/pctOmhT1jTnJ
+5yaf1v1Y34yuAZMa7RW4QWKpbtRjqmPhf7Nqu0Edo8UFfBWdvYs5hrMpHxtAINVh
+An6adeELbMite4QeQ07uaLxXtjOAMquwCvzGU0H/gkiqrewr66r1URAWO9ebhVxT
+DnPoramsvAjv/gHMXeD1CD8Hh1b5UZlWSQuAO120jW6qH2akb7XQoHkDyLu8VbOs
+IwwRDR/jvFSt7EApXek+6EgDcTJeYbtoEe7eGzWO0psZL5qUanzZs423Fn/C9boY
+OFU08mUDFa1CuRDHdZa7zoNk
+=aEpZ
 -----END PGP SIGNATURE-----
