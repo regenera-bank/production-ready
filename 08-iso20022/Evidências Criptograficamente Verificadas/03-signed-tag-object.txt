@@ -5,7 +5,7 @@ tagger Regenera Bank <finance@regenerabank.world> 1782541701 -0300
 
 Regenera Bank signed institutional source baseline.
 
-Repository: https://github.com/regenera-bank/-production-ready.git
+Repository: https://github.com/regenera-bank/production-ready.git
 Local repository: /Volumes/Regenera Bank 1/production-ready
 Baseline commit: 50ddff439c8fb54dfe8e576b1190c14bac853bbc
 Source parent commit: e7a02c743e47535b37e0b51211db74d79fa34d09

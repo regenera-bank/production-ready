@@ -22,7 +22,7 @@ gpgsig -----BEGIN PGP SIGNATURE-----
 
 evidence: establish signed institutional source baseline
 
-Repository: https://github.com/regenera-bank/-production-ready.git
+Repository: https://github.com/regenera-bank/production-ready.git
 
 Local repository: /Volumes/Regenera Bank 1/production-ready
 

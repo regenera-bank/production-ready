@@ -9,7 +9,7 @@ CommitDate: Sat Jun 27 03:28:21 2026 -0300
 
     evidence: establish signed institutional source baseline
     
-    Repository: https://github.com/regenera-bank/-production-ready.git
+    Repository: https://github.com/regenera-bank/production-ready.git
     
     Local repository: /Volumes/Regenera Bank 1/production-ready
     

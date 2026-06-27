@@ -1,0 +1,5 @@
+
+# metadados locais não pertencem à baseline
+.DS_Store
+._*
+__MACOSX/
